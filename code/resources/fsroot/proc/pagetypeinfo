@@ -1,0 +1,26 @@
+Page block order: 10
+Pages per block:  1024
+
+Free pages count per migrate type at order       0      1      2      3      4      5      6      7      8      9     10 
+Node    0, zone      DMA, type    Unmovable      0      1      1      1      1      1      1      1      1      1      0 
+Node    0, zone      DMA, type  Reclaimable      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone      DMA, type      Movable      0      1      0      1      2      1      1      0      1      1      1 
+Node    0, zone      DMA, type      Reserve      0      0      0      0      0      0      0      0      0      0      1 
+Node    0, zone      DMA, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone   Normal, type    Unmovable    208     17     26      5      1      1      0      1      0      1      0 
+Node    0, zone   Normal, type  Reclaimable      1      1      0      1      1      0      0      1      0      0      0 
+Node    0, zone   Normal, type      Movable      0      0      0      0      0      0      0      1      1      1    130 
+Node    0, zone   Normal, type      Reserve      0      0      0      0      0      0      0      0      0      0      2 
+Node    0, zone   Normal, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone  HighMem, type    Unmovable     28      5      7      1      0      0      0      1      2      3      1 
+Node    0, zone  HighMem, type  Reclaimable      0      0      0      0      0      0      0      0      0      0      0 
+Node    0, zone  HighMem, type      Movable      5      0      2      2      0      0      0      1      0      1     87 
+Node    0, zone  HighMem, type      Reserve      0      1      0      0      0      0      0      0      0      0      0 
+Node    0, zone  HighMem, type      Isolate      0      0      0      0      0      0      0      0      0      0      0 
+
+Number of blocks type     Unmovable  Reclaimable      Movable      Reserve      Isolate 
+Node 0, zone      DMA            1            0            2            1            0 
+Node 0, zone   Normal           29           16          171            2            0 
+Node 0, zone  HighMem            9            0          536            1            0 
+
+            
