@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: EMT
+xame: xetc
+Build-Date: 11-June-2012
+Specification-Version: 1
+
